@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+/*Navigation*/
+
+nav {
+    padding: 10px;
+    background-color:  #EADFB4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#img-nav {
+    height: 80px;
+}
+
+/*Main*/
+main {
+    background-color: #51829B;}
